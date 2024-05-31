@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 15",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "San pham A",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "San pham B",
+      "price": 240
+    },
+    {
+      "id": 4,
+      "name": "San pham C",
+      "price": 249
+    },
+    {
+      "id": "e536",
+      "name": "San pham 1",
+      "price": "100"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": 123456
+    }
+  ]
+}
